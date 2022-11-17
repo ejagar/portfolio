@@ -15,7 +15,7 @@ const Home = () => {
                     I'am a Website Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae praesentium nostrum inventore labore ipsum eius sit quia voluptates omnis beatae distinctio quaerat repudiandae, facilis aliquid tenetur doloribus accusantium architecto. Delectus!
+                     Hello, my name is Dzagar(Jagar). Welcome to my portfolio website. I am happy to share with you some of my projects I was doing recently and many of them will appear soon
                 </p>
                 <div>
                     <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500'>
